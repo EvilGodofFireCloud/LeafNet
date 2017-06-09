@@ -4,7 +4,7 @@ A toy example of Leaf classification (https://www.kaggle.com/c/leaf-classificati
 ## How to run it
 1 install pytorch
 
-2 download processed dataset in http://pan.baidu.com/s/1kU97OV1
+2 download processed dataset in http://pan.baidu.com/s/1hrJNsEC
 
 3 run ```python dataset_att.py``` to get the attribute features 
 
