@@ -145,10 +145,6 @@ if __name__ == "__main__":
             ### write to csv
             result_i.append(idx)
             for op in output.reshape(99,):
-                if op > .5:
-                    op = 1
-                if op < .5:
-                    op = 0
                 result_i.append('%.6f'%op)
             results.append(tuple(result_i))
             ###visualization
